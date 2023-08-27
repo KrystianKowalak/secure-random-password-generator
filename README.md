@@ -1,4 +1,4 @@
-# secure-random-password-generator
+# Secure Random Password Generator
 ![image](https://github.com/KrystianKowalak/secure-random-password-generator/assets/63071475/995da8b4-cfda-42e4-87fa-9a081c059ef3)
 
 A random password generator website
